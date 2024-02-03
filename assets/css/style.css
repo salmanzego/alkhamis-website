@@ -416,6 +416,8 @@ nav .logo {
 }
 
 .about_us .heading h4 {
+     font-size: 18px;
+    text-transform: uppercase;
     position: relative;
 }
 
