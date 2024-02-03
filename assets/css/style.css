@@ -435,7 +435,7 @@ nav .logo {
 }
 
 .about_us .about_content .about_img {
-    min-height: 200px;
+    min-height: 600px;
     background-image: url(../images/about1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
