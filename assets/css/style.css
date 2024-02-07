@@ -405,6 +405,63 @@ nav .logo {
 /* Highlights End */
 
 /* About Starts */
+/* About Us Section */
+.about_us {
+    padding: 80px 0;
+    background-color: #f8f9fa; /* Change this color as needed */
+}
+
+.about_us .heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about_us h4 {
+    color: #333; /* Change heading color if needed */
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.about_us img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px;
+}
+
+.about_us .about_content {
+    padding-left: 30px; /* Adjust spacing if needed */
+}
+
+.about_us h2 {
+    color: #333; /* Change heading color if needed */
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.about_us p {
+    color: #666; /* Change paragraph color if needed */
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .about_us {
+        padding: 60px 0;
+    }
+    
+    .about_us .heading {
+        margin-bottom: 40px;
+    }
+    
+    .about_us .about_content {
+        padding-left: 0;
+    }
+}
+
 .about_us {
     width: 100%;
     padding: 50px 0em;
